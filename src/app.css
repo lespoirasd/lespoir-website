@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --charcoal: #1c1b22;
+}
+
+@variant dark (&:where(.dark, .dark *));
+
+:root {
+  --icon-color: #000;
+}
+
+html.dark {
+  --icon-color: #fff;
+}

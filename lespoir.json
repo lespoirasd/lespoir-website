@@ -1,0 +1,12 @@
+{
+  "$schema": "https://is-a.dev/schema.json",
+  "description": "Personal website of L'espoir",
+  "repo": "https://github.com/lespoirasd/lespoir-website",
+  "owner": {
+    "username": "lespoirasd",
+    "email": "kaitossphan@gmail.com"
+  },
+  "record": {
+    "CNAME": "lespoirasd.github.io"
+  }
+}

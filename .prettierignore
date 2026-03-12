@@ -1,0 +1,9 @@
+# Auto generated
+LICENSE
+
+# Dependencies
+node_modules
+pnpm-lock.yaml
+
+# SvelteKit
+.svelte-kit
